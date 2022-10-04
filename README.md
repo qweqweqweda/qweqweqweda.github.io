@@ -12,3 +12,4 @@ https://qweqweqweda.github.io/index.html
 ==
 https://fantastic-belekoy-c68516.netlify.app/
 ### 독도앱을 베이스로 현재 제가 다니고있는 동의과학대학교를 소개하는 앱으로 변환하였습니다
+![image](https://user-images.githubusercontent.com/101075026/193722264-0f79acea-805d-48a3-9208-adb810e3c6f2.png)
