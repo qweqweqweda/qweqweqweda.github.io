@@ -17,7 +17,8 @@ https://fantastic-belekoy-c68516.netlify.app/
 
 
 *****************
-[동의과학대학교 소개](https://cute-choux-7a542e.netlify.app/)
+[나의 포트폴리오](https://cute-choux-7a542e.netlify.app/)
+==
 https://cute-choux-7a542e.netlify.app/
 ### mportpolio를 베이스로 저에 대한 내용으로 바꿨습니다
 ### 기존 내용에 jquery로 바꿨고, EChart를 이용하여 언어에 관한 이해도를 표현했습니다
