@@ -14,3 +14,11 @@ https://qweqweqweda.github.io/index.html
 https://fantastic-belekoy-c68516.netlify.app/
 ### 독도앱을 베이스로 현재 제가 다니고있는 동의과학대학교를 소개하는 앱으로 변환하였습니다
 ![image](https://user-images.githubusercontent.com/101075026/193722264-0f79acea-805d-48a3-9208-adb810e3c6f2.png)
+
+
+*****************
+[동의과학대학교 소개](https://cute-choux-7a542e.netlify.app/)
+https://cute-choux-7a542e.netlify.app/
+### mportpolio를 베이스로 저에 대한 내용으로 바꿨습니다
+### 기존 내용에 jquery로 바꿨고, EChart를 이용하여 언어에 관한 이해도를 표현했습니다
+![image](https://user-images.githubusercontent.com/101075026/197513932-8a980b57-408d-4b04-8c63-d8ade50a5fac.png)
