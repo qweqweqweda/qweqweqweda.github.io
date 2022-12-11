@@ -31,13 +31,13 @@ https://cute-choux-7a542e.netlify.app/
 ### 이때까지 해온 이력서, 학교소개, 포트폴리오를 코르도바를 이용해 휴대폰에서 기동할 수 있게 했습니다.
 ### jquery를 다운로드방식으로 변경하여 휴대폰에서 정상기동하는지 확인했습니다.
 
-##이력서
+## 이력서
 ![KakaoTalk_20221211_174853953](https://user-images.githubusercontent.com/101075026/206894642-f11a4eea-1aa2-47bf-b1dd-f4a633c0a613.jpg)
 
-##학교소개앱
+## 학교소개앱
 ![KakaoTalk_20221211_174853953_01](https://user-images.githubusercontent.com/101075026/206894657-3903d167-74b9-466a-8c44-8736dea3f359.jpg)
 
-##포트폴리오
+## 포트폴리오
 ![KakaoTalk_20221211_174853953_02](https://user-images.githubusercontent.com/101075026/206894662-c33ebf3d-9bbe-41ca-8918-47e543465e34.jpg)
 
 
